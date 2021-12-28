@@ -43,7 +43,7 @@ $RECYCLE.BIN/
 *.gz
 *.iso
 *.jar
-*.rar
+
 *.tar
 *.zip
 *.com
